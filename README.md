@@ -13,7 +13,7 @@ https://en.m.wikipedia.org/wiki/Denial-of-service_attack#Distributed_DoS
 
 # Nasıl Kullanılır
 * ```cd WoffDdos```
-* ```python3 WoffDdos.py```
+* ```bash setup.sh```
 
 # Sources
  * Github https://github.com/woffluon
