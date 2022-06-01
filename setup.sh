@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-echo -e "                Installing \033[91mRed\033[0mDDoS Tool,"
+echo -e "                Installing \033[91mWoff\033[0mDDoS Tool,"
 echo -e "                Please Wait..."
 apt-get -y install python-pip > /dev/null 2>&1
 apt-get -y install python3-pip > /dev/null 2>&1
