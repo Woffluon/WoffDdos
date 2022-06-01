@@ -33,7 +33,7 @@ while True:
     print("\033[91m╚███╔███╔╝╚██████╔╝██║     ██║     ██████╔╝██████╔╝╚██████╔╝███████║")
     print("\033[91m ╚══╝╚══╝  ╚═════╝ ╚═╝     ╚═╝     ╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝")
     print("                                                                            ")
-    print("                        Author: Woffluon")
+    print("                    Author: Woffluon")
     print("       Github: https://github.com/woffluon/WoffDdos")
     print("\033[92;1m")
     print("1. Website Domain\n2. IP Address\n3. About\n4. Exit")
