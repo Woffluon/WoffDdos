@@ -1,7 +1,3 @@
-### Table of contents
-
-# DDOS-Attack
-
 # Dos ve Ddos nedir?
 https://en.m.wikipedia.org/wiki/Denial-of-service_attack#Distributed_DoS
 
