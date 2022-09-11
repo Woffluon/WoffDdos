@@ -13,7 +13,3 @@ https://en.m.wikipedia.org/wiki/Denial-of-service_attack#Distributed_DoS
 
 # Sources
  * Github https://github.com/woffluon
-
-# Screenshot
-
-![](https://raw.githubusercontent.com/woffluon/WoffDdos/master/Screenshot.jpg)
